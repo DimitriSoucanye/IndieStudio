@@ -1,5 +1,6 @@
 # Pika-Gauntlet
 
+<p><img src="Preview_Pika-Gauntlet.png" alt="Preview"></p>
 Please enjoy this game.
 
 <h1>Use</h1>
