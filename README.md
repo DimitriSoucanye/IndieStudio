@@ -1,4 +1,5 @@
-# IndieStudio - Pika-Gauntlet
+# IndieStudio
+# Pika-Gauntlet
 
 You can download the files on our GitHub account.
 
