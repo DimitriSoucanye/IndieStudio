@@ -9,4 +9,5 @@ Please enjoy this game. Some features are coming :
      Others levels
      Bonus
 
-<button>Cliquez sur moi :)</button>
+<p>Bonjour. Vous souhaitez visiter <a href="https://github.com/DimitriSoucanye/IndieStudio/archive/master.zip">OpenClassrooms</a> ?<br />
+Download .zip </p>
