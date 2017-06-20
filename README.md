@@ -11,19 +11,19 @@ Please enjoy this game.
 <p>To install launch make</p>
 
 <h3>Windows</h3>
-<p>To install use the windows configuration file</p>
+<p>To install use the Windows configuration file</p>
 
 <h1>Implementations</h1>
 <p> Some features are coming :<br />
      - Mob implementation<br />
      - Personnalisable maps<br />
-     - More difficulties: Others levels + bonus
+     - More difficulties: others levels + bonus
 </p>
 
 <h1>Download</h1>
 
-<p>You can download the files on our GitHub account.</p>
-<p>Or direct links are at the bottom of the page</p>
+<p>You can download the files on our GitHub account,<br />
+or direct links are at the bottom of the page</p>
 
 <h1>Links</h1>
 
