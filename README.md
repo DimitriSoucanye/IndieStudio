@@ -9,4 +9,5 @@ Please enjoy this game. Some features are coming :
      Others levels
      Bonus
 
-<a href="https://github.com/DimitriSoucanye/IndieStudio/archive/master.zip">Download .zip </a> ?</p>
+<a href="https://github.com/DimitriSoucanye/IndieStudio/archive/master.zip">Download .zip </a>
+<a href="x-github-client://openRepo/https://github.com/DimitriSoucanye/IndieStudio">Open in Desktop</a>
