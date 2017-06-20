@@ -1,0 +1,12 @@
+# Blender MTL File: 'eclair.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.689334 0.001405
+Ks 0.933513 1.000000 0.970234
+Ke 1.424000 1.227015 0.002500
+Ni 1.000000
+d 1.000000
+illum 2
