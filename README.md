@@ -1,20 +1,32 @@
 # Pika-Gauntlet
 
-You can download the files on our GitHub account.
+Please enjoy this game.
 
-Please enjoy this game. Some features are coming :
-- Mob implementation
-- Personnalisable maps
-- More difficulties:
-     Others levels + bonus <br />
+<h1>Use</h1>
 
-Links :
+<p>After downloading the files, you have the choice between a Linux version and a Windows version. Choose the one that corresponds to your operating system.</p>
+
+<h3>Linux</h3>
+<p>To install launch make</p>
+
+<h3>Windows</h3>
+<p>To install use the windows configuration file</p>
+
+<h1>Implementations</h1>
+<p> Some features are coming :
+     - Mob implementation
+     - Personnalisable maps
+     - More difficulties: Others levels + bonus
+</p>
+
+<h1>Download</h1>
+
+<p>You can download the files on our GitHub account.</p>
+<p>Or direct links are at the bottom of the page</p>
+
+<h1>Links</h1>
 
 <a href="https://github.com/DimitriSoucanye/IndieStudio/archive/master.zip">Download .zip </a> <br />
 <a href="x-github-client://openRepo/https://github.com/DimitriSoucanye/IndieStudio">Open in Desktop</a>
 
-<section>
-    <h1>Heading One</h1>
-    <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-    <p><img src="http://f.cl.ly/items/1f3f0U0A3x0P1Z022y1Q/532999_10150681079447771_501672770_9454022_1744955305_n.jpeg" alt="New Haven South Beach by Matt Graham"></p>
+<p><img src="http://www.eclypsia.com/public/upload/cke/Guides/Pokemon%20GO/Pokemon_Go_Guides_Pikachu.png" alt="See you soon :D"></p>
