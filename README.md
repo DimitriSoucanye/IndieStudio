@@ -14,17 +14,17 @@ Please enjoy this game.
 <h3>Windows</h3>
 <p>To install use the Windows configuration file</p>
 
+<h3> MacOS </h3>
+<p> There is no mac version yet </p>
+<p> But you can follow this link : https://doc.ubuntu-fr.org/virtualbox </p>
+<p> In which you will install a Linux Virtual Machine, and play this game while waiting for a mac version </p>
+
 <h1>Implementations</h1>
 <p> Some features are coming :<br />
      - Mob implementation<br />
      - Personnalisable maps<br />
      - More difficulties: others levels + bonus
 </p>
-
-<h3> MacOS </h3>
-<p> There is no mac version yet </p>
-<p> But you can follow this link : https://doc.ubuntu-fr.org/virtualbox </p>
-<p> In which you will install a Linux Virtual Machine, and play this game while waiting for a mac version </p>
 
 <h1>Download</h1>
 
