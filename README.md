@@ -21,6 +21,11 @@ Please enjoy this game.
      - More difficulties: others levels + bonus
 </p>
 
+<h3> MacOS </h3>
+<p> There is no mac version yet </p>
+<p> But you can follow this link : https://doc.ubuntu-fr.org/virtualbox </p>
+<p> In which you will install a Linux Virtual Machine, and play this game while waiting for a mac version </p>
+
 <h1>Download</h1>
 
 <p>You can download the files on our GitHub account,<br />
