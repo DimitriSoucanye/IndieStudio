@@ -1,4 +1,4 @@
-# Pika-Gauntlet
+# Pokemon Gauntlet
 
 <p><img src="Preview_Pika-Gauntlet.png" alt="Preview"></p>
 Please enjoy this game.
